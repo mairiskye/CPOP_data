@@ -24,4 +24,4 @@ p1_bmi_data <- left_join(rolled_avg_BMI, code_lookup_table, by = "CA") %>%
   rename("Year" = SchoolYear, "value" = threeYrAvg) %>%
   mutate(Indicator = "Primary 1 Body Mass Index", Type = "Raw")
 
-write.csv(p1_bmi_data, file = "Final Data/p1_bmi_data.csv")
+write.csv(p1_bmi_data, file = "data/p1_bmi_data.csv")
