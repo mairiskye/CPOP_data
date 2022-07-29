@@ -1,0 +1,232 @@
+"","CPP","Year","value"
+"1","Aberdeen City","2014/15",3312
+"2","Aberdeen City","2015/16",3756
+"3","Aberdeen City","2016/17",4552
+"4","Aberdeen City","2017/18",5251
+"5","Aberdeen City","2018/19",5235
+"6","Aberdeen City","2019/20",5349
+"7","Aberdeen City","2020/21",4736
+"8","Aberdeenshire","2014/15",3675
+"9","Aberdeenshire","2015/16",4136
+"10","Aberdeenshire","2016/17",4761
+"11","Aberdeenshire","2017/18",5110
+"12","Aberdeenshire","2018/19",4926
+"13","Aberdeenshire","2019/20",5271
+"14","Aberdeenshire","2020/21",4739
+"15","Angus","2014/15",2579
+"16","Angus","2015/16",2611
+"17","Angus","2016/17",3051
+"18","Angus","2017/18",3369
+"19","Angus","2018/19",3377
+"20","Angus","2019/20",3455
+"21","Angus","2020/21",2949
+"22","Argyll and Bute","2014/15",1733
+"23","Argyll and Bute","2015/16",1775
+"24","Argyll and Bute","2016/17",1989
+"25","Argyll and Bute","2017/18",2211
+"26","Argyll and Bute","2018/19",2160
+"27","Argyll and Bute","2019/20",2214
+"28","Argyll and Bute","2020/21",1736
+"29","City of Edinburgh","2014/15",7560
+"30","City of Edinburgh","2015/16",7738
+"31","City of Edinburgh","2016/17",8957
+"32","City of Edinburgh","2017/18",9961
+"33","City of Edinburgh","2018/19",9561
+"34","City of Edinburgh","2019/20",10020
+"35","City of Edinburgh","2020/21",8972
+"36","Clackmannanshire","2014/15",1502
+"37","Clackmannanshire","2015/16",1555
+"38","Clackmannanshire","2016/17",1737
+"39","Clackmannanshire","2017/18",1971
+"40","Clackmannanshire","2018/19",1871
+"41","Clackmannanshire","2019/20",2034
+"42","Clackmannanshire","2020/21",1677
+"43","Dumfries and Galloway","2014/15",3854
+"44","Dumfries and Galloway","2015/16",3989
+"45","Dumfries and Galloway","2016/17",4322
+"46","Dumfries and Galloway","2017/18",4854
+"47","Dumfries and Galloway","2018/19",4685
+"48","Dumfries and Galloway","2019/20",5169
+"49","Dumfries and Galloway","2020/21",4237
+"50","Dundee City","2014/15",3892
+"51","Dundee City","2015/16",3924
+"52","Dundee City","2016/17",4713
+"53","Dundee City","2017/18",5231
+"54","Dundee City","2018/19",5102
+"55","Dundee City","2019/20",5217
+"56","Dundee City","2020/21",4224
+"57","East Ayrshire","2014/15",3743
+"58","East Ayrshire","2015/16",3867
+"59","East Ayrshire","2016/17",4294
+"60","East Ayrshire","2017/18",4709
+"61","East Ayrshire","2018/19",4750
+"62","East Ayrshire","2019/20",4923
+"63","East Ayrshire","2020/21",4143
+"64","East Dunbartonshire","2014/15",1543
+"65","East Dunbartonshire","2015/16",1605
+"66","East Dunbartonshire","2016/17",1825
+"67","East Dunbartonshire","2017/18",1845
+"68","East Dunbartonshire","2018/19",1776
+"69","East Dunbartonshire","2019/20",2013
+"70","East Dunbartonshire","2020/21",1619
+"71","East Lothian","2014/15",2351
+"72","East Lothian","2015/16",2433
+"73","East Lothian","2016/17",2686
+"74","East Lothian","2017/18",2859
+"75","East Lothian","2018/19",2749
+"76","East Lothian","2019/20",3040
+"77","East Lothian","2020/21",2485
+"78","East Renfrewshire","2014/15",1531
+"79","East Renfrewshire","2015/16",1594
+"80","East Renfrewshire","2016/17",1698
+"81","East Renfrewshire","2017/18",1839
+"82","East Renfrewshire","2018/19",1890
+"83","East Renfrewshire","2019/20",2046
+"84","East Renfrewshire","2020/21",1758
+"85","Falkirk","2014/15",4221
+"86","Falkirk","2015/16",4153
+"87","Falkirk","2016/17",4622
+"88","Falkirk","2017/18",5010
+"89","Falkirk","2018/19",5155
+"90","Falkirk","2019/20",5400
+"91","Falkirk","2020/21",4529
+"92","Fife","2014/15",10335
+"93","Fife","2015/16",10592
+"94","Fife","2016/17",11741
+"95","Fife","2017/18",13034
+"96","Fife","2018/19",13063
+"97","Fife","2019/20",13747
+"98","Fife","2020/21",11097
+"99","Glasgow City","2014/15",20411
+"100","Glasgow City","2015/16",21346
+"101","Glasgow City","2016/17",24115
+"102","Glasgow City","2017/18",28211
+"103","Glasgow City","2018/19",28670
+"104","Glasgow City","2019/20",29750
+"105","Glasgow City","2020/21",24758
+"106","Highland","2014/15",5298
+"107","Highland","2015/16",5535
+"108","Highland","2016/17",6062
+"109","Highland","2017/18",6168
+"110","Highland","2018/19",6113
+"111","Highland","2019/20",6636
+"112","Highland","2020/21",5879
+"113","Inverclyde","2014/15",1804
+"114","Inverclyde","2015/16",1914
+"115","Inverclyde","2016/17",2000
+"116","Inverclyde","2017/18",2131
+"117","Inverclyde","2018/19",2197
+"118","Inverclyde","2019/20",2219
+"119","Inverclyde","2020/21",1681
+"120","Midlothian","2014/15",2100
+"121","Midlothian","2015/16",2015
+"122","Midlothian","2016/17",2356
+"123","Midlothian","2017/18",2573
+"124","Midlothian","2018/19",2585
+"125","Midlothian","2019/20",2796
+"126","Midlothian","2020/21",2446
+"127","Moray","2014/15",2078
+"128","Moray","2015/16",2133
+"129","Moray","2016/17",2567
+"130","Moray","2017/18",2620
+"131","Moray","2018/19",2592
+"132","Moray","2019/20",2738
+"133","Moray","2020/21",2583
+"134","Na h-Eileanan Siar","2014/15",443
+"135","Na h-Eileanan Siar","2015/16",520
+"136","Na h-Eileanan Siar","2016/17",570
+"137","Na h-Eileanan Siar","2017/18",550
+"138","Na h-Eileanan Siar","2018/19",507
+"139","Na h-Eileanan Siar","2019/20",609
+"140","Na h-Eileanan Siar","2020/21",491
+"141","North Ayrshire","2014/15",4299
+"142","North Ayrshire","2015/16",4224
+"143","North Ayrshire","2016/17",4739
+"144","North Ayrshire","2017/18",5254
+"145","North Ayrshire","2018/19",5225
+"146","North Ayrshire","2019/20",5663
+"147","North Ayrshire","2020/21",4632
+"148","North Lanarkshire","2014/15",10794
+"149","North Lanarkshire","2015/16",11145
+"150","North Lanarkshire","2016/17",12155
+"151","North Lanarkshire","2017/18",13308
+"152","North Lanarkshire","2018/19",13205
+"153","North Lanarkshire","2019/20",13980
+"154","North Lanarkshire","2020/21",11699
+"155","Orkney Islands","2014/15",405
+"156","Orkney Islands","2015/16",408
+"157","Orkney Islands","2016/17",493
+"158","Orkney Islands","2017/18",486
+"159","Orkney Islands","2018/19",527
+"160","Orkney Islands","2019/20",532
+"161","Orkney Islands","2020/21",463
+"162","Perth and Kinross","2014/15",2909
+"163","Perth and Kinross","2015/16",3062
+"164","Perth and Kinross","2016/17",3364
+"165","Perth and Kinross","2017/18",3774
+"166","Perth and Kinross","2018/19",3735
+"167","Perth and Kinross","2019/20",4008
+"168","Perth and Kinross","2020/21",3350
+"169","Renfrewshire","2014/15",3541
+"170","Renfrewshire","2015/16",3672
+"171","Renfrewshire","2016/17",4267
+"172","Renfrewshire","2017/18",4967
+"173","Renfrewshire","2018/19",5070
+"174","Renfrewshire","2019/20",5433
+"175","Renfrewshire","2020/21",4454
+"176","Scottish Borders","2014/15",2453
+"177","Scottish Borders","2015/16",2626
+"178","Scottish Borders","2016/17",2907
+"179","Scottish Borders","2017/18",3211
+"180","Scottish Borders","2018/19",3193
+"181","Scottish Borders","2019/20",3458
+"182","Scottish Borders","2020/21",2770
+"183","Shetland Islands","2014/15",293
+"184","Shetland Islands","2015/16",313
+"185","Shetland Islands","2016/17",382
+"186","Shetland Islands","2017/18",445
+"187","Shetland Islands","2018/19",387
+"188","Shetland Islands","2019/20",418
+"189","Shetland Islands","2020/21",563
+"190","South Ayrshire","2014/15",2742
+"191","South Ayrshire","2015/16",2685
+"192","South Ayrshire","2016/17",3111
+"193","South Ayrshire","2017/18",3324
+"194","South Ayrshire","2018/19",3416
+"195","South Ayrshire","2019/20",3467
+"196","South Ayrshire","2020/21",2789
+"197","South Lanarkshire","2014/15",7773
+"198","South Lanarkshire","2015/16",7704
+"199","South Lanarkshire","2016/17",8591
+"200","South Lanarkshire","2017/18",9518
+"201","South Lanarkshire","2018/19",9291
+"202","South Lanarkshire","2019/20",9839
+"203","South Lanarkshire","2020/21",8274
+"204","Stirling","2014/15",1864
+"205","Stirling","2015/16",1797
+"206","Stirling","2016/17",2017
+"207","Stirling","2017/18",2198
+"208","Stirling","2018/19",2165
+"209","Stirling","2019/20",2418
+"210","Stirling","2020/21",1981
+"211","Total","2014/15",128263
+"212","Total","2015/16",132119
+"213","Total","2016/17",149008
+"214","Total","2017/18",165386
+"215","Total","2018/19",164742
+"216","Total","2019/20",173851
+"217","Total","2020/21",146076
+"218","West Dunbartonshire","2014/15",2566
+"219","West Dunbartonshire","2015/16",2559
+"220","West Dunbartonshire","2016/17",2975
+"221","West Dunbartonshire","2017/18",3485
+"222","West Dunbartonshire","2018/19",3446
+"223","West Dunbartonshire","2019/20",3565
+"224","West Dunbartonshire","2020/21",2911
+"225","West Lothian","2014/15",4642
+"226","West Lothian","2015/16",4750
+"227","West Lothian","2016/17",5377
+"228","West Lothian","2017/18",5882
+"229","West Lothian","2018/19",6118
+"230","West Lothian","2019/20",6446
+"231","West Lothian","2020/21",5450
