@@ -1,481 +1,496 @@
-"CPP","s_code","year","3ya"
-"Aberdeen City","S12000033","2005-2006",77.0666666666667
-"Aberdeen City","S12000033","2006-2007",77.9
-"Aberdeen City","S12000033","2007-2008",78.4
-"Aberdeen City","S12000033","2008-2009",78.2666666666667
-"Aberdeen City","S12000033","2009-2010",78.1
-"Aberdeen City","S12000033","2010-2011",76.9333333333333
-"Aberdeen City","S12000033","2011-2012",76.0333333333333
-"Aberdeen City","S12000033","2012-2013",75.2333333333333
-"Aberdeen City","S12000033","2013-2014",75.9
-"Aberdeen City","S12000033","2014-2015",76.1
-"Aberdeen City","S12000033","2015-2016",75.4666666666667
-"Aberdeen City","S12000033","2016-2017",74.8666666666667
-"Aberdeen City","S12000033","2017-2018",74.5333333333333
-"Aberdeen City","S12000033","2018-2019",76.4666666666667
-"Aberdeen City","S12000033","2019-2020",76
-"Aberdeenshire","S12000034","2005-2006",78.6333333333333
-"Aberdeenshire","S12000034","2006-2007",79.6666666666667
-"Aberdeenshire","S12000034","2007-2008",80.4
-"Aberdeenshire","S12000034","2008-2009",80.2
-"Aberdeenshire","S12000034","2009-2010",80.4666666666667
-"Aberdeenshire","S12000034","2010-2011",79.8666666666667
-"Aberdeenshire","S12000034","2011-2012",80.3
-"Aberdeenshire","S12000034","2012-2013",79.5333333333333
-"Aberdeenshire","S12000034","2013-2014",80.3333333333333
-"Aberdeenshire","S12000034","2014-2015",80
-"Aberdeenshire","S12000034","2015-2016",79.7333333333333
-"Aberdeenshire","S12000034","2016-2017",79.8333333333333
-"Aberdeenshire","S12000034","2017-2018",80.0666666666667
-"Aberdeenshire","S12000034","2018-2019",81.0666666666667
-"Aberdeenshire","S12000034","2019-2020",79.3333333333333
-"Angus","S12000041","2005-2006",75.9
-"Angus","S12000041","2006-2007",76.9333333333333
-"Angus","S12000041","2007-2008",77.5333333333333
-"Angus","S12000041","2008-2009",76.3333333333333
-"Angus","S12000041","2009-2010",74.8333333333333
-"Angus","S12000041","2010-2011",73
-"Angus","S12000041","2011-2012",72.5
-"Angus","S12000041","2012-2013",72.3333333333333
-"Angus","S12000041","2013-2014",72.5666666666667
-"Angus","S12000041","2014-2015",73.5666666666667
-"Angus","S12000041","2015-2016",75.0333333333333
-"Angus","S12000041","2016-2017",76
-"Angus","S12000041","2017-2018",76.3333333333333
-"Angus","S12000041","2018-2019",76.3
-"Angus","S12000041","2019-2020",75.0666666666667
-"Argyll and Bute","S12000035","2005-2006",76.8
-"Argyll and Bute","S12000035","2006-2007",77.5
-"Argyll and Bute","S12000035","2007-2008",76.5666666666667
-"Argyll and Bute","S12000035","2008-2009",74.9
-"Argyll and Bute","S12000035","2009-2010",73.2666666666667
-"Argyll and Bute","S12000035","2010-2011",72.3666666666667
-"Argyll and Bute","S12000035","2011-2012",71.4666666666667
-"Argyll and Bute","S12000035","2012-2013",72.1333333333333
-"Argyll and Bute","S12000035","2013-2014",73.8333333333333
-"Argyll and Bute","S12000035","2014-2015",75.5666666666667
-"Argyll and Bute","S12000035","2015-2016",76.8666666666667
-"Argyll and Bute","S12000035","2016-2017",77
-"Argyll and Bute","S12000035","2017-2018",76.4666666666667
-"Argyll and Bute","S12000035","2018-2019",75.6
-"Argyll and Bute","S12000035","2019-2020",75.2
-"City of Edinburgh","S12000036","2005-2006",75
-"City of Edinburgh","S12000036","2006-2007",74.7333333333333
-"City of Edinburgh","S12000036","2007-2008",74.8333333333333
-"City of Edinburgh","S12000036","2008-2009",73.1333333333333
-"City of Edinburgh","S12000036","2009-2010",72.1
-"City of Edinburgh","S12000036","2010-2011",70.6
-"City of Edinburgh","S12000036","2011-2012",71.6
-"City of Edinburgh","S12000036","2012-2013",71.9666666666667
-"City of Edinburgh","S12000036","2013-2014",72.8
-"City of Edinburgh","S12000036","2014-2015",72.5333333333333
-"City of Edinburgh","S12000036","2015-2016",72.8333333333333
-"City of Edinburgh","S12000036","2016-2017",73.5333333333333
-"City of Edinburgh","S12000036","2017-2018",75.3666666666667
-"City of Edinburgh","S12000036","2018-2019",76.1333333333333
-"City of Edinburgh","S12000036","2019-2020",76.0333333333333
-"Clackmannanshire","S12000005","2005-2006",70.9
-"Clackmannanshire","S12000005","2006-2007",69.7666666666667
-"Clackmannanshire","S12000005","2007-2008",69.2
-"Clackmannanshire","S12000005","2008-2009",69.4333333333333
-"Clackmannanshire","S12000005","2009-2010",71.6666666666667
-"Clackmannanshire","S12000005","2010-2011",71
-"Clackmannanshire","S12000005","2011-2012",68.9333333333333
-"Clackmannanshire","S12000005","2012-2013",66.4
-"Clackmannanshire","S12000005","2013-2014",67.0666666666667
-"Clackmannanshire","S12000005","2014-2015",68.4666666666667
-"Clackmannanshire","S12000005","2015-2016",69.1333333333333
-"Clackmannanshire","S12000005","2016-2017",70.7666666666667
-"Clackmannanshire","S12000005","2017-2018",71.8666666666667
-"Clackmannanshire","S12000005","2018-2019",73.0666666666667
-"Clackmannanshire","S12000005","2019-2020",73.0666666666667
-"Dumfries and Galloway","S12000006","2005-2006",76.0666666666667
-"Dumfries and Galloway","S12000006","2006-2007",75.9
-"Dumfries and Galloway","S12000006","2007-2008",74.7666666666667
-"Dumfries and Galloway","S12000006","2008-2009",74.1
-"Dumfries and Galloway","S12000006","2009-2010",72.6
-"Dumfries and Galloway","S12000006","2010-2011",71
-"Dumfries and Galloway","S12000006","2011-2012",69.1333333333333
-"Dumfries and Galloway","S12000006","2012-2013",69.3666666666667
-"Dumfries and Galloway","S12000006","2013-2014",70.8
-"Dumfries and Galloway","S12000006","2014-2015",73.3333333333333
-"Dumfries and Galloway","S12000006","2015-2016",74.2666666666667
-"Dumfries and Galloway","S12000006","2016-2017",75.5
-"Dumfries and Galloway","S12000006","2017-2018",74.3666666666667
-"Dumfries and Galloway","S12000006","2018-2019",74.4
-"Dumfries and Galloway","S12000006","2019-2020",71.2666666666667
-"Dundee City","S12000042","2005-2006",69.0666666666667
-"Dundee City","S12000042","2006-2007",70
-"Dundee City","S12000042","2007-2008",69.3333333333333
-"Dundee City","S12000042","2008-2009",68.6666666666667
-"Dundee City","S12000042","2009-2010",68.4
-"Dundee City","S12000042","2010-2011",67.9
-"Dundee City","S12000042","2011-2012",67.1666666666667
-"Dundee City","S12000042","2012-2013",63.6333333333333
-"Dundee City","S12000042","2013-2014",63.5
-"Dundee City","S12000042","2014-2015",62.6666666666667
-"Dundee City","S12000042","2015-2016",64.7333333333333
-"Dundee City","S12000042","2016-2017",64.3
-"Dundee City","S12000042","2017-2018",65.3
-"Dundee City","S12000042","2018-2019",67.2333333333333
-"Dundee City","S12000042","2019-2020",69.6333333333333
-"East Ayrshire","S12000008","2005-2006",68.9
-"East Ayrshire","S12000008","2006-2007",69.7666666666667
-"East Ayrshire","S12000008","2007-2008",70.3
-"East Ayrshire","S12000008","2008-2009",70
-"East Ayrshire","S12000008","2009-2010",69.6666666666667
-"East Ayrshire","S12000008","2010-2011",68.6
-"East Ayrshire","S12000008","2011-2012",68.2666666666667
-"East Ayrshire","S12000008","2012-2013",67.7666666666667
-"East Ayrshire","S12000008","2013-2014",68.3666666666667
-"East Ayrshire","S12000008","2014-2015",68.7666666666667
-"East Ayrshire","S12000008","2015-2016",68.1
-"East Ayrshire","S12000008","2016-2017",68.9666666666667
-"East Ayrshire","S12000008","2017-2018",69.7333333333333
-"East Ayrshire","S12000008","2018-2019",71.5
-"East Ayrshire","S12000008","2019-2020",72.1666666666667
-"East Dunbartonshire","S12000045","2005-2006",78.7333333333333
-"East Dunbartonshire","S12000045","2006-2007",78.0333333333333
-"East Dunbartonshire","S12000045","2007-2008",76.6
-"East Dunbartonshire","S12000045","2008-2009",75.2333333333333
-"East Dunbartonshire","S12000045","2009-2010",74
-"East Dunbartonshire","S12000045","2010-2011",73.4
-"East Dunbartonshire","S12000045","2011-2012",73.6666666666667
-"East Dunbartonshire","S12000045","2012-2013",74.6
-"East Dunbartonshire","S12000045","2013-2014",74.5666666666667
-"East Dunbartonshire","S12000045","2014-2015",74.5
-"East Dunbartonshire","S12000045","2015-2016",74.6
-"East Dunbartonshire","S12000045","2016-2017",76.0333333333333
-"East Dunbartonshire","S12000045","2017-2018",76.8666666666667
-"East Dunbartonshire","S12000045","2018-2019",76.9333333333333
-"East Dunbartonshire","S12000045","2019-2020",76.4333333333333
-"East Lothian","S12000010","2005-2006",76.4666666666667
-"East Lothian","S12000010","2006-2007",76.5666666666667
-"East Lothian","S12000010","2007-2008",76.2333333333333
-"East Lothian","S12000010","2008-2009",75.4333333333333
-"East Lothian","S12000010","2009-2010",74.2333333333333
-"East Lothian","S12000010","2010-2011",73.1
-"East Lothian","S12000010","2011-2012",73.2333333333333
-"East Lothian","S12000010","2012-2013",74.1666666666667
-"East Lothian","S12000010","2013-2014",74.9333333333333
-"East Lothian","S12000010","2014-2015",74.9
-"East Lothian","S12000010","2015-2016",74.8333333333333
-"East Lothian","S12000010","2016-2017",75.9666666666667
-"East Lothian","S12000010","2017-2018",77.3
-"East Lothian","S12000010","2018-2019",78.9666666666667
-"East Lothian","S12000010","2019-2020",78
-"East Renfrewshire","S12000011","2005-2006",77.0666666666667
-"East Renfrewshire","S12000011","2006-2007",76.2333333333333
-"East Renfrewshire","S12000011","2007-2008",75.6
-"East Renfrewshire","S12000011","2008-2009",74.4
-"East Renfrewshire","S12000011","2009-2010",73.2
-"East Renfrewshire","S12000011","2010-2011",72.3333333333333
-"East Renfrewshire","S12000011","2011-2012",72.7333333333333
-"East Renfrewshire","S12000011","2012-2013",73.3666666666667
-"East Renfrewshire","S12000011","2013-2014",74
-"East Renfrewshire","S12000011","2014-2015",74.6666666666667
-"East Renfrewshire","S12000011","2015-2016",75.3333333333333
-"East Renfrewshire","S12000011","2016-2017",75.8
-"East Renfrewshire","S12000011","2017-2018",75.1333333333333
-"East Renfrewshire","S12000011","2018-2019",74.6333333333333
-"East Renfrewshire","S12000011","2019-2020",73.5333333333333
-"Falkirk","S12000014","2005-2006",74.9
-"Falkirk","S12000014","2006-2007",75.5666666666667
-"Falkirk","S12000014","2007-2008",75.5
-"Falkirk","S12000014","2008-2009",74.3
-"Falkirk","S12000014","2009-2010",73.1666666666667
-"Falkirk","S12000014","2010-2011",72.1666666666667
-"Falkirk","S12000014","2011-2012",72.3666666666667
-"Falkirk","S12000014","2012-2013",72.7333333333333
-"Falkirk","S12000014","2013-2014",73
-"Falkirk","S12000014","2014-2015",73.8
-"Falkirk","S12000014","2015-2016",74.8333333333333
-"Falkirk","S12000014","2016-2017",76.0333333333333
-"Falkirk","S12000014","2017-2018",76.1
-"Falkirk","S12000014","2018-2019",75.0666666666667
-"Falkirk","S12000014","2019-2020",74.9666666666667
-"Fife","S12000047","2005-2006",73.8666666666667
-"Fife","S12000047","2006-2007",73.4666666666667
-"Fife","S12000047","2007-2008",73.5
-"Fife","S12000047","2008-2009",72.9
-"Fife","S12000047","2009-2010",72.0666666666667
-"Fife","S12000047","2010-2011",70.8
-"Fife","S12000047","2011-2012",70.4333333333333
-"Fife","S12000047","2012-2013",70.4333333333333
-"Fife","S12000047","2013-2014",71.1666666666667
-"Fife","S12000047","2014-2015",72.2333333333333
-"Fife","S12000047","2015-2016",73.1666666666667
-"Fife","S12000047","2016-2017",73.6666666666667
-"Fife","S12000047","2017-2018",74.0333333333333
-"Fife","S12000047","2018-2019",73.3666666666667
-"Fife","S12000047","2019-2020",72.3666666666667
-"Glasgow City","S12000049","2005-2006",63
-"Glasgow City","S12000049","2006-2007",64.0333333333333
-"Glasgow City","S12000049","2007-2008",64.4333333333333
-"Glasgow City","S12000049","2008-2009",63.8333333333333
-"Glasgow City","S12000049","2009-2010",62.3666666666667
-"Glasgow City","S12000049","2010-2011",61.9666666666667
-"Glasgow City","S12000049","2011-2012",60.8666666666667
-"Glasgow City","S12000049","2012-2013",61.6666666666667
-"Glasgow City","S12000049","2013-2014",62.6666666666667
-"Glasgow City","S12000049","2014-2015",65
-"Glasgow City","S12000049","2015-2016",66.1
-"Glasgow City","S12000049","2016-2017",66.3666666666667
-"Glasgow City","S12000049","2017-2018",66.5333333333333
-"Glasgow City","S12000049","2018-2019",66.0666666666667
-"Glasgow City","S12000049","2019-2020",67.2333333333333
-"Highland","S12000017","2005-2006",79.5666666666667
-"Highland","S12000017","2006-2007",79.3666666666667
-"Highland","S12000017","2007-2008",80
-"Highland","S12000017","2008-2009",80.3333333333333
-"Highland","S12000017","2009-2010",79.4333333333333
-"Highland","S12000017","2010-2011",79.5333333333333
-"Highland","S12000017","2011-2012",77.7
-"Highland","S12000017","2012-2013",76.3333333333333
-"Highland","S12000017","2013-2014",75.9666666666667
-"Highland","S12000017","2014-2015",77.2333333333333
-"Highland","S12000017","2015-2016",79.1666666666667
-"Highland","S12000017","2016-2017",80.1
-"Highland","S12000017","2017-2018",80.2666666666667
-"Highland","S12000017","2018-2019",80.2666666666667
-"Highland","S12000017","2019-2020",79.0666666666667
-"Inverclyde","S12000018","2005-2006",68.5333333333333
-"Inverclyde","S12000018","2006-2007",69.2333333333333
-"Inverclyde","S12000018","2007-2008",69.5333333333333
-"Inverclyde","S12000018","2008-2009",69
-"Inverclyde","S12000018","2009-2010",69.2333333333333
-"Inverclyde","S12000018","2010-2011",68.2333333333333
-"Inverclyde","S12000018","2011-2012",67.5333333333333
-"Inverclyde","S12000018","2012-2013",67.3
-"Inverclyde","S12000018","2013-2014",68.3666666666667
-"Inverclyde","S12000018","2014-2015",69.0333333333333
-"Inverclyde","S12000018","2015-2016",69.6333333333333
-"Inverclyde","S12000018","2016-2017",69.9666666666667
-"Inverclyde","S12000018","2017-2018",71.8666666666667
-"Inverclyde","S12000018","2018-2019",71.0333333333333
-"Inverclyde","S12000018","2019-2020",70.9666666666667
-"Midlothian","S12000019","2005-2006",78.2666666666667
-"Midlothian","S12000019","2006-2007",78.3666666666667
-"Midlothian","S12000019","2007-2008",78.2333333333333
-"Midlothian","S12000019","2008-2009",77.1
-"Midlothian","S12000019","2009-2010",74.8666666666667
-"Midlothian","S12000019","2010-2011",74.3666666666667
-"Midlothian","S12000019","2011-2012",74.1666666666667
-"Midlothian","S12000019","2012-2013",74.6
-"Midlothian","S12000019","2013-2014",74.4333333333333
-"Midlothian","S12000019","2014-2015",74.1666666666667
-"Midlothian","S12000019","2015-2016",75.5
-"Midlothian","S12000019","2016-2017",77.2333333333333
-"Midlothian","S12000019","2017-2018",79.2666666666667
-"Midlothian","S12000019","2018-2019",80.3333333333333
-"Midlothian","S12000019","2019-2020",78.7666666666667
-"Moray","S12000020","2005-2006",75.8333333333333
-"Moray","S12000020","2006-2007",76.6333333333333
-"Moray","S12000020","2007-2008",78.4
-"Moray","S12000020","2008-2009",78.8666666666667
-"Moray","S12000020","2009-2010",79.0333333333333
-"Moray","S12000020","2010-2011",78.2666666666667
-"Moray","S12000020","2011-2012",78.6666666666667
-"Moray","S12000020","2012-2013",78.3666666666667
-"Moray","S12000020","2013-2014",77.5
-"Moray","S12000020","2014-2015",75.9
-"Moray","S12000020","2015-2016",74.5666666666667
-"Moray","S12000020","2016-2017",73.9333333333333
-"Moray","S12000020","2017-2018",73.9666666666667
-"Moray","S12000020","2018-2019",74.9333333333333
-"Moray","S12000020","2019-2020",74.5333333333333
-"Eilean Siar","S12000013","2005-2006",77.9333333333333
-"Eilean Siar","S12000013","2006-2007",78.2666666666667
-"Eilean Siar","S12000013","2007-2008",76.8333333333333
-"Eilean Siar","S12000013","2008-2009",75.3
-"Eilean Siar","S12000013","2009-2010",71
-"Eilean Siar","S12000013","2010-2011",69.0333333333333
-"Eilean Siar","S12000013","2011-2012",68.3333333333333
-"Eilean Siar","S12000013","2012-2013",71.6333333333333
-"Eilean Siar","S12000013","2013-2014",73.5
-"Eilean Siar","S12000013","2014-2015",75.8666666666667
-"Eilean Siar","S12000013","2015-2016",76.5666666666667
-"Eilean Siar","S12000013","2016-2017",78.9
-"Eilean Siar","S12000013","2017-2018",79.9666666666667
-"Eilean Siar","S12000013","2018-2019",81.3666666666667
-"Eilean Siar","S12000013","2019-2020",81.2
-"North Ayrshire","S12000021","2005-2006",68.2
-"North Ayrshire","S12000021","2006-2007",68.6333333333333
-"North Ayrshire","S12000021","2007-2008",68.4
-"North Ayrshire","S12000021","2008-2009",67.2666666666667
-"North Ayrshire","S12000021","2009-2010",65.0333333333333
-"North Ayrshire","S12000021","2010-2011",62.8666666666667
-"North Ayrshire","S12000021","2011-2012",61.7333333333333
-"North Ayrshire","S12000021","2012-2013",62.0666666666667
-"North Ayrshire","S12000021","2013-2014",64.3333333333333
-"North Ayrshire","S12000021","2014-2015",65.0666666666667
-"North Ayrshire","S12000021","2015-2016",65.8
-"North Ayrshire","S12000021","2016-2017",66.5
-"North Ayrshire","S12000021","2017-2018",68.5
-"North Ayrshire","S12000021","2018-2019",70.3
-"North Ayrshire","S12000021","2019-2020",68.9333333333333
-"North Lanarkshire","S12000050","2005-2006",70.2333333333333
-"North Lanarkshire","S12000050","2006-2007",70.9333333333333
-"North Lanarkshire","S12000050","2007-2008",71.3
-"North Lanarkshire","S12000050","2008-2009",70.3333333333333
-"North Lanarkshire","S12000050","2009-2010",70.2
-"North Lanarkshire","S12000050","2010-2011",69.6333333333333
-"North Lanarkshire","S12000050","2011-2012",69.5333333333333
-"North Lanarkshire","S12000050","2012-2013",69.5666666666667
-"North Lanarkshire","S12000050","2013-2014",70.2666666666667
-"North Lanarkshire","S12000050","2014-2015",71.0666666666667
-"North Lanarkshire","S12000050","2015-2016",72.4
-"North Lanarkshire","S12000050","2016-2017",73.6
-"North Lanarkshire","S12000050","2017-2018",74.6666666666667
-"North Lanarkshire","S12000050","2018-2019",74.4
-"North Lanarkshire","S12000050","2019-2020",71.8666666666667
-"Orkney Islands","S12000023","2005-2006",82.0666666666667
-"Orkney Islands","S12000023","2006-2007",82.5333333333333
-"Orkney Islands","S12000023","2007-2008",82.2666666666667
-"Orkney Islands","S12000023","2008-2009",83.7333333333333
-"Orkney Islands","S12000023","2009-2010",82.2666666666667
-"Orkney Islands","S12000023","2010-2011",81.0333333333333
-"Orkney Islands","S12000023","2011-2012",80.4
-"Orkney Islands","S12000023","2012-2013",81.5
-"Orkney Islands","S12000023","2013-2014",84.4666666666667
-"Orkney Islands","S12000023","2014-2015",85.2333333333333
-"Orkney Islands","S12000023","2015-2016",87.2
-"Orkney Islands","S12000023","2016-2017",87.5
-"Orkney Islands","S12000023","2017-2018",88.5333333333333
-"Orkney Islands","S12000023","2018-2019",88.4333333333333
-"Orkney Islands","S12000023","2019-2020",86.4
-"Perth and Kinross","S12000048","2005-2006",76.0333333333333
-"Perth and Kinross","S12000048","2006-2007",76.4333333333333
-"Perth and Kinross","S12000048","2007-2008",76.4
-"Perth and Kinross","S12000048","2008-2009",75.2
-"Perth and Kinross","S12000048","2009-2010",74.8333333333333
-"Perth and Kinross","S12000048","2010-2011",74.7
-"Perth and Kinross","S12000048","2011-2012",74.9666666666667
-"Perth and Kinross","S12000048","2012-2013",75.1666666666667
-"Perth and Kinross","S12000048","2013-2014",75.7666666666667
-"Perth and Kinross","S12000048","2014-2015",77.1
-"Perth and Kinross","S12000048","2015-2016",77.5666666666667
-"Perth and Kinross","S12000048","2016-2017",77.1
-"Perth and Kinross","S12000048","2017-2018",78.0333333333333
-"Perth and Kinross","S12000048","2018-2019",79.2
-"Perth and Kinross","S12000048","2019-2020",78.1
-"Renfrewshire","S12000038","2005-2006",73.3666666666667
-"Renfrewshire","S12000038","2006-2007",73.7
-"Renfrewshire","S12000038","2007-2008",73.7333333333333
-"Renfrewshire","S12000038","2008-2009",72.3333333333333
-"Renfrewshire","S12000038","2009-2010",70.1
-"Renfrewshire","S12000038","2010-2011",68.3333333333333
-"Renfrewshire","S12000038","2011-2012",68.6
-"Renfrewshire","S12000038","2012-2013",70.4
-"Renfrewshire","S12000038","2013-2014",72.2666666666667
-"Renfrewshire","S12000038","2014-2015",73.3333333333333
-"Renfrewshire","S12000038","2015-2016",74.0333333333333
-"Renfrewshire","S12000038","2016-2017",75.7
-"Renfrewshire","S12000038","2017-2018",76.2666666666667
-"Renfrewshire","S12000038","2018-2019",76.7
-"Renfrewshire","S12000038","2019-2020",75.9666666666667
-"Scottish Borders","S12000026","2005-2006",76.9
-"Scottish Borders","S12000026","2006-2007",77.4333333333333
-"Scottish Borders","S12000026","2007-2008",77.7333333333333
-"Scottish Borders","S12000026","2008-2009",76.3666666666667
-"Scottish Borders","S12000026","2009-2010",74.1333333333333
-"Scottish Borders","S12000026","2010-2011",72.4666666666667
-"Scottish Borders","S12000026","2011-2012",72.6333333333333
-"Scottish Borders","S12000026","2012-2013",73.8
-"Scottish Borders","S12000026","2013-2014",75.4
-"Scottish Borders","S12000026","2014-2015",76.4333333333333
-"Scottish Borders","S12000026","2015-2016",75.8666666666667
-"Scottish Borders","S12000026","2016-2017",74.9666666666667
-"Scottish Borders","S12000026","2017-2018",74.6
-"Scottish Borders","S12000026","2018-2019",74.8666666666667
-"Scottish Borders","S12000026","2019-2020",74.9
-"Shetland Islands","S12000027","2005-2006",83.4666666666667
-"Shetland Islands","S12000027","2006-2007",84.2666666666667
-"Shetland Islands","S12000027","2007-2008",84.3
-"Shetland Islands","S12000027","2008-2009",85.1
-"Shetland Islands","S12000027","2009-2010",84.6
-"Shetland Islands","S12000027","2010-2011",83.9333333333333
-"Shetland Islands","S12000027","2011-2012",80.5333333333333
-"Shetland Islands","S12000027","2012-2013",81.1
-"Shetland Islands","S12000027","2013-2014",80.1666666666667
-"Shetland Islands","S12000027","2014-2015",84.6666666666667
-"Shetland Islands","S12000027","2015-2016",84.8333333333333
-"Shetland Islands","S12000027","2016-2017",85.5666666666667
-"Shetland Islands","S12000027","2017-2018",83.7333333333333
-"Shetland Islands","S12000027","2018-2019",80.2
-"Shetland Islands","S12000027","2019-2020",76.5
-"South Ayrshire","S12000028","2005-2006",71.9
-"South Ayrshire","S12000028","2006-2007",72.6
-"South Ayrshire","S12000028","2007-2008",72.9333333333333
-"South Ayrshire","S12000028","2008-2009",71.8
-"South Ayrshire","S12000028","2009-2010",69.7666666666667
-"South Ayrshire","S12000028","2010-2011",67.8333333333333
-"South Ayrshire","S12000028","2011-2012",67.8666666666667
-"South Ayrshire","S12000028","2012-2013",69.6666666666667
-"South Ayrshire","S12000028","2013-2014",71.6
-"South Ayrshire","S12000028","2014-2015",72.5666666666667
-"South Ayrshire","S12000028","2015-2016",72.1
-"South Ayrshire","S12000028","2016-2017",72.1333333333333
-"South Ayrshire","S12000028","2017-2018",71.5
-"South Ayrshire","S12000028","2018-2019",72.5333333333333
-"South Ayrshire","S12000028","2019-2020",71.7333333333333
-"South Lanarkshire","S12000029","2005-2006",73.1666666666667
-"South Lanarkshire","S12000029","2006-2007",74.3
-"South Lanarkshire","S12000029","2007-2008",74.6
-"South Lanarkshire","S12000029","2008-2009",73.6333333333333
-"South Lanarkshire","S12000029","2009-2010",72.2333333333333
-"South Lanarkshire","S12000029","2010-2011",71.6
-"South Lanarkshire","S12000029","2011-2012",72.7
-"South Lanarkshire","S12000029","2012-2013",73
-"South Lanarkshire","S12000029","2013-2014",74
-"South Lanarkshire","S12000029","2014-2015",74.4
-"South Lanarkshire","S12000029","2015-2016",75.3333333333333
-"South Lanarkshire","S12000029","2016-2017",75
-"South Lanarkshire","S12000029","2017-2018",75.1333333333333
-"South Lanarkshire","S12000029","2018-2019",75.8666666666667
-"South Lanarkshire","S12000029","2019-2020",76.4333333333333
-"Stirling","S12000030","2005-2006",74
-"Stirling","S12000030","2006-2007",74.2
-"Stirling","S12000030","2007-2008",74.3666666666667
-"Stirling","S12000030","2008-2009",73.6333333333333
-"Stirling","S12000030","2009-2010",71.9
-"Stirling","S12000030","2010-2011",70.5333333333333
-"Stirling","S12000030","2011-2012",69.6666666666667
-"Stirling","S12000030","2012-2013",70.3666666666667
-"Stirling","S12000030","2013-2014",71.9
-"Stirling","S12000030","2014-2015",72.5
-"Stirling","S12000030","2015-2016",73.3666666666667
-"Stirling","S12000030","2016-2017",72.7
-"Stirling","S12000030","2017-2018",73.3666666666667
-"Stirling","S12000030","2018-2019",72.5666666666667
-"Stirling","S12000030","2019-2020",73.3333333333333
-"West Dunbartonshire","S12000039","2005-2006",70.1333333333333
-"West Dunbartonshire","S12000039","2006-2007",70.9333333333333
-"West Dunbartonshire","S12000039","2007-2008",70.9333333333333
-"West Dunbartonshire","S12000039","2008-2009",69.4
-"West Dunbartonshire","S12000039","2009-2010",68.3333333333333
-"West Dunbartonshire","S12000039","2010-2011",67.9666666666667
-"West Dunbartonshire","S12000039","2011-2012",67.6333333333333
-"West Dunbartonshire","S12000039","2012-2013",66.5333333333333
-"West Dunbartonshire","S12000039","2013-2014",65.8
-"West Dunbartonshire","S12000039","2014-2015",67.6333333333333
-"West Dunbartonshire","S12000039","2015-2016",70.0666666666667
-"West Dunbartonshire","S12000039","2016-2017",71.9666666666667
-"West Dunbartonshire","S12000039","2017-2018",72.2666666666667
-"West Dunbartonshire","S12000039","2018-2019",72.4333333333333
-"West Dunbartonshire","S12000039","2019-2020",71.9333333333333
-"West Lothian","S12000040","2005-2006",76.2333333333333
-"West Lothian","S12000040","2006-2007",76.0333333333333
-"West Lothian","S12000040","2007-2008",76.2666666666667
-"West Lothian","S12000040","2008-2009",74.7333333333333
-"West Lothian","S12000040","2009-2010",73.6333333333333
-"West Lothian","S12000040","2010-2011",72.3
-"West Lothian","S12000040","2011-2012",73.1
-"West Lothian","S12000040","2012-2013",73.5
-"West Lothian","S12000040","2013-2014",75.0666666666667
-"West Lothian","S12000040","2014-2015",74.7333333333333
-"West Lothian","S12000040","2015-2016",75.2333333333333
-"West Lothian","S12000040","2016-2017",75.3333333333333
-"West Lothian","S12000040","2017-2018",76.4333333333333
-"West Lothian","S12000040","2018-2019",77.3666666666667
-"West Lothian","S12000040","2019-2020",75.7666666666667
+"CPP","Year","Indicator","Type","value"
+"Aberdeen City","2005-2006","Employment Rate","Raw",77.0666666666667
+"Aberdeen City","2006-2007","Employment Rate","Raw",77.9
+"Aberdeen City","2007-2008","Employment Rate","Raw",78.4
+"Aberdeen City","2008-2009","Employment Rate","Raw",78.2666666666667
+"Aberdeen City","2009-2010","Employment Rate","Raw",78.1
+"Aberdeen City","2010-2011","Employment Rate","Raw",76.9333333333333
+"Aberdeen City","2011-2012","Employment Rate","Raw",76.0333333333333
+"Aberdeen City","2012-2013","Employment Rate","Raw",75.2333333333333
+"Aberdeen City","2013-2014","Employment Rate","Raw",75.9
+"Aberdeen City","2014-2015","Employment Rate","Raw",76.1
+"Aberdeen City","2015-2016","Employment Rate","Raw",75.4666666666667
+"Aberdeen City","2016-2017","Employment Rate","Raw",74.8666666666667
+"Aberdeen City","2017-2018","Employment Rate","Raw",74.5333333333333
+"Aberdeen City","2018-2019","Employment Rate","Raw",76.4666666666667
+"Aberdeen City","2019-2020","Employment Rate","Raw",76
+"Aberdeenshire","2005-2006","Employment Rate","Raw",78.6333333333333
+"Aberdeenshire","2006-2007","Employment Rate","Raw",79.6666666666667
+"Aberdeenshire","2007-2008","Employment Rate","Raw",80.4
+"Aberdeenshire","2008-2009","Employment Rate","Raw",80.2
+"Aberdeenshire","2009-2010","Employment Rate","Raw",80.4666666666667
+"Aberdeenshire","2010-2011","Employment Rate","Raw",79.8666666666667
+"Aberdeenshire","2011-2012","Employment Rate","Raw",80.3
+"Aberdeenshire","2012-2013","Employment Rate","Raw",79.5333333333333
+"Aberdeenshire","2013-2014","Employment Rate","Raw",80.3333333333333
+"Aberdeenshire","2014-2015","Employment Rate","Raw",80
+"Aberdeenshire","2015-2016","Employment Rate","Raw",79.7333333333333
+"Aberdeenshire","2016-2017","Employment Rate","Raw",79.8333333333333
+"Aberdeenshire","2017-2018","Employment Rate","Raw",80.0666666666667
+"Aberdeenshire","2018-2019","Employment Rate","Raw",81.0666666666667
+"Aberdeenshire","2019-2020","Employment Rate","Raw",79.3333333333333
+"Angus","2005-2006","Employment Rate","Raw",75.9
+"Angus","2006-2007","Employment Rate","Raw",76.9333333333333
+"Angus","2007-2008","Employment Rate","Raw",77.5333333333333
+"Angus","2008-2009","Employment Rate","Raw",76.3333333333333
+"Angus","2009-2010","Employment Rate","Raw",74.8333333333333
+"Angus","2010-2011","Employment Rate","Raw",73
+"Angus","2011-2012","Employment Rate","Raw",72.5
+"Angus","2012-2013","Employment Rate","Raw",72.3333333333333
+"Angus","2013-2014","Employment Rate","Raw",72.5666666666667
+"Angus","2014-2015","Employment Rate","Raw",73.5666666666667
+"Angus","2015-2016","Employment Rate","Raw",75.0333333333333
+"Angus","2016-2017","Employment Rate","Raw",76
+"Angus","2017-2018","Employment Rate","Raw",76.3333333333333
+"Angus","2018-2019","Employment Rate","Raw",76.3
+"Angus","2019-2020","Employment Rate","Raw",75.0666666666667
+"Argyll and Bute","2005-2006","Employment Rate","Raw",76.8
+"Argyll and Bute","2006-2007","Employment Rate","Raw",77.5
+"Argyll and Bute","2007-2008","Employment Rate","Raw",76.5666666666667
+"Argyll and Bute","2008-2009","Employment Rate","Raw",74.9
+"Argyll and Bute","2009-2010","Employment Rate","Raw",73.2666666666667
+"Argyll and Bute","2010-2011","Employment Rate","Raw",72.3666666666667
+"Argyll and Bute","2011-2012","Employment Rate","Raw",71.4666666666667
+"Argyll and Bute","2012-2013","Employment Rate","Raw",72.1333333333333
+"Argyll and Bute","2013-2014","Employment Rate","Raw",73.8333333333333
+"Argyll and Bute","2014-2015","Employment Rate","Raw",75.5666666666667
+"Argyll and Bute","2015-2016","Employment Rate","Raw",76.8666666666667
+"Argyll and Bute","2016-2017","Employment Rate","Raw",77
+"Argyll and Bute","2017-2018","Employment Rate","Raw",76.4666666666667
+"Argyll and Bute","2018-2019","Employment Rate","Raw",75.6
+"Argyll and Bute","2019-2020","Employment Rate","Raw",75.2
+"Edinburgh, City of","2005-2006","Employment Rate","Raw",75
+"Edinburgh, City of","2006-2007","Employment Rate","Raw",74.7333333333333
+"Edinburgh, City of","2007-2008","Employment Rate","Raw",74.8333333333333
+"Edinburgh, City of","2008-2009","Employment Rate","Raw",73.1333333333333
+"Edinburgh, City of","2009-2010","Employment Rate","Raw",72.1
+"Edinburgh, City of","2010-2011","Employment Rate","Raw",70.6
+"Edinburgh, City of","2011-2012","Employment Rate","Raw",71.6
+"Edinburgh, City of","2012-2013","Employment Rate","Raw",71.9666666666667
+"Edinburgh, City of","2013-2014","Employment Rate","Raw",72.8
+"Edinburgh, City of","2014-2015","Employment Rate","Raw",72.5333333333333
+"Edinburgh, City of","2015-2016","Employment Rate","Raw",72.8333333333333
+"Edinburgh, City of","2016-2017","Employment Rate","Raw",73.5333333333333
+"Edinburgh, City of","2017-2018","Employment Rate","Raw",75.3666666666667
+"Edinburgh, City of","2018-2019","Employment Rate","Raw",76.1333333333333
+"Edinburgh, City of","2019-2020","Employment Rate","Raw",76.0333333333333
+"Clackmannanshire","2005-2006","Employment Rate","Raw",70.9
+"Clackmannanshire","2006-2007","Employment Rate","Raw",69.7666666666667
+"Clackmannanshire","2007-2008","Employment Rate","Raw",69.2
+"Clackmannanshire","2008-2009","Employment Rate","Raw",69.4333333333333
+"Clackmannanshire","2009-2010","Employment Rate","Raw",71.6666666666667
+"Clackmannanshire","2010-2011","Employment Rate","Raw",71
+"Clackmannanshire","2011-2012","Employment Rate","Raw",68.9333333333333
+"Clackmannanshire","2012-2013","Employment Rate","Raw",66.4
+"Clackmannanshire","2013-2014","Employment Rate","Raw",67.0666666666667
+"Clackmannanshire","2014-2015","Employment Rate","Raw",68.4666666666667
+"Clackmannanshire","2015-2016","Employment Rate","Raw",69.1333333333333
+"Clackmannanshire","2016-2017","Employment Rate","Raw",70.7666666666667
+"Clackmannanshire","2017-2018","Employment Rate","Raw",71.8666666666667
+"Clackmannanshire","2018-2019","Employment Rate","Raw",73.0666666666667
+"Clackmannanshire","2019-2020","Employment Rate","Raw",73.0666666666667
+"Dumfries and Galloway","2005-2006","Employment Rate","Raw",76.0666666666667
+"Dumfries and Galloway","2006-2007","Employment Rate","Raw",75.9
+"Dumfries and Galloway","2007-2008","Employment Rate","Raw",74.7666666666667
+"Dumfries and Galloway","2008-2009","Employment Rate","Raw",74.1
+"Dumfries and Galloway","2009-2010","Employment Rate","Raw",72.6
+"Dumfries and Galloway","2010-2011","Employment Rate","Raw",71
+"Dumfries and Galloway","2011-2012","Employment Rate","Raw",69.1333333333333
+"Dumfries and Galloway","2012-2013","Employment Rate","Raw",69.3666666666667
+"Dumfries and Galloway","2013-2014","Employment Rate","Raw",70.8
+"Dumfries and Galloway","2014-2015","Employment Rate","Raw",73.3333333333333
+"Dumfries and Galloway","2015-2016","Employment Rate","Raw",74.2666666666667
+"Dumfries and Galloway","2016-2017","Employment Rate","Raw",75.5
+"Dumfries and Galloway","2017-2018","Employment Rate","Raw",74.3666666666667
+"Dumfries and Galloway","2018-2019","Employment Rate","Raw",74.4
+"Dumfries and Galloway","2019-2020","Employment Rate","Raw",71.2666666666667
+"Dundee City","2005-2006","Employment Rate","Raw",69.0666666666667
+"Dundee City","2006-2007","Employment Rate","Raw",70
+"Dundee City","2007-2008","Employment Rate","Raw",69.3333333333333
+"Dundee City","2008-2009","Employment Rate","Raw",68.6666666666667
+"Dundee City","2009-2010","Employment Rate","Raw",68.4
+"Dundee City","2010-2011","Employment Rate","Raw",67.9
+"Dundee City","2011-2012","Employment Rate","Raw",67.1666666666667
+"Dundee City","2012-2013","Employment Rate","Raw",63.6333333333333
+"Dundee City","2013-2014","Employment Rate","Raw",63.5
+"Dundee City","2014-2015","Employment Rate","Raw",62.6666666666667
+"Dundee City","2015-2016","Employment Rate","Raw",64.7333333333333
+"Dundee City","2016-2017","Employment Rate","Raw",64.3
+"Dundee City","2017-2018","Employment Rate","Raw",65.3
+"Dundee City","2018-2019","Employment Rate","Raw",67.2333333333333
+"Dundee City","2019-2020","Employment Rate","Raw",69.6333333333333
+"East Ayrshire","2005-2006","Employment Rate","Raw",68.9
+"East Ayrshire","2006-2007","Employment Rate","Raw",69.7666666666667
+"East Ayrshire","2007-2008","Employment Rate","Raw",70.3
+"East Ayrshire","2008-2009","Employment Rate","Raw",70
+"East Ayrshire","2009-2010","Employment Rate","Raw",69.6666666666667
+"East Ayrshire","2010-2011","Employment Rate","Raw",68.6
+"East Ayrshire","2011-2012","Employment Rate","Raw",68.2666666666667
+"East Ayrshire","2012-2013","Employment Rate","Raw",67.7666666666667
+"East Ayrshire","2013-2014","Employment Rate","Raw",68.3666666666667
+"East Ayrshire","2014-2015","Employment Rate","Raw",68.7666666666667
+"East Ayrshire","2015-2016","Employment Rate","Raw",68.1
+"East Ayrshire","2016-2017","Employment Rate","Raw",68.9666666666667
+"East Ayrshire","2017-2018","Employment Rate","Raw",69.7333333333333
+"East Ayrshire","2018-2019","Employment Rate","Raw",71.5
+"East Ayrshire","2019-2020","Employment Rate","Raw",72.1666666666667
+"East Dunbartonshire","2005-2006","Employment Rate","Raw",78.7333333333333
+"East Dunbartonshire","2006-2007","Employment Rate","Raw",78.0333333333333
+"East Dunbartonshire","2007-2008","Employment Rate","Raw",76.6
+"East Dunbartonshire","2008-2009","Employment Rate","Raw",75.2333333333333
+"East Dunbartonshire","2009-2010","Employment Rate","Raw",74
+"East Dunbartonshire","2010-2011","Employment Rate","Raw",73.4
+"East Dunbartonshire","2011-2012","Employment Rate","Raw",73.6666666666667
+"East Dunbartonshire","2012-2013","Employment Rate","Raw",74.6
+"East Dunbartonshire","2013-2014","Employment Rate","Raw",74.5666666666667
+"East Dunbartonshire","2014-2015","Employment Rate","Raw",74.5
+"East Dunbartonshire","2015-2016","Employment Rate","Raw",74.6
+"East Dunbartonshire","2016-2017","Employment Rate","Raw",76.0333333333333
+"East Dunbartonshire","2017-2018","Employment Rate","Raw",76.8666666666667
+"East Dunbartonshire","2018-2019","Employment Rate","Raw",76.9333333333333
+"East Dunbartonshire","2019-2020","Employment Rate","Raw",76.4333333333333
+"East Lothian","2005-2006","Employment Rate","Raw",76.4666666666667
+"East Lothian","2006-2007","Employment Rate","Raw",76.5666666666667
+"East Lothian","2007-2008","Employment Rate","Raw",76.2333333333333
+"East Lothian","2008-2009","Employment Rate","Raw",75.4333333333333
+"East Lothian","2009-2010","Employment Rate","Raw",74.2333333333333
+"East Lothian","2010-2011","Employment Rate","Raw",73.1
+"East Lothian","2011-2012","Employment Rate","Raw",73.2333333333333
+"East Lothian","2012-2013","Employment Rate","Raw",74.1666666666667
+"East Lothian","2013-2014","Employment Rate","Raw",74.9333333333333
+"East Lothian","2014-2015","Employment Rate","Raw",74.9
+"East Lothian","2015-2016","Employment Rate","Raw",74.8333333333333
+"East Lothian","2016-2017","Employment Rate","Raw",75.9666666666667
+"East Lothian","2017-2018","Employment Rate","Raw",77.3
+"East Lothian","2018-2019","Employment Rate","Raw",78.9666666666667
+"East Lothian","2019-2020","Employment Rate","Raw",78
+"East Renfrewshire","2005-2006","Employment Rate","Raw",77.0666666666667
+"East Renfrewshire","2006-2007","Employment Rate","Raw",76.2333333333333
+"East Renfrewshire","2007-2008","Employment Rate","Raw",75.6
+"East Renfrewshire","2008-2009","Employment Rate","Raw",74.4
+"East Renfrewshire","2009-2010","Employment Rate","Raw",73.2
+"East Renfrewshire","2010-2011","Employment Rate","Raw",72.3333333333333
+"East Renfrewshire","2011-2012","Employment Rate","Raw",72.7333333333333
+"East Renfrewshire","2012-2013","Employment Rate","Raw",73.3666666666667
+"East Renfrewshire","2013-2014","Employment Rate","Raw",74
+"East Renfrewshire","2014-2015","Employment Rate","Raw",74.6666666666667
+"East Renfrewshire","2015-2016","Employment Rate","Raw",75.3333333333333
+"East Renfrewshire","2016-2017","Employment Rate","Raw",75.8
+"East Renfrewshire","2017-2018","Employment Rate","Raw",75.1333333333333
+"East Renfrewshire","2018-2019","Employment Rate","Raw",74.6333333333333
+"East Renfrewshire","2019-2020","Employment Rate","Raw",73.5333333333333
+"Falkirk","2005-2006","Employment Rate","Raw",74.9
+"Falkirk","2006-2007","Employment Rate","Raw",75.5666666666667
+"Falkirk","2007-2008","Employment Rate","Raw",75.5
+"Falkirk","2008-2009","Employment Rate","Raw",74.3
+"Falkirk","2009-2010","Employment Rate","Raw",73.1666666666667
+"Falkirk","2010-2011","Employment Rate","Raw",72.1666666666667
+"Falkirk","2011-2012","Employment Rate","Raw",72.3666666666667
+"Falkirk","2012-2013","Employment Rate","Raw",72.7333333333333
+"Falkirk","2013-2014","Employment Rate","Raw",73
+"Falkirk","2014-2015","Employment Rate","Raw",73.8
+"Falkirk","2015-2016","Employment Rate","Raw",74.8333333333333
+"Falkirk","2016-2017","Employment Rate","Raw",76.0333333333333
+"Falkirk","2017-2018","Employment Rate","Raw",76.1
+"Falkirk","2018-2019","Employment Rate","Raw",75.0666666666667
+"Falkirk","2019-2020","Employment Rate","Raw",74.9666666666667
+"Fife","2005-2006","Employment Rate","Raw",73.8666666666667
+"Fife","2006-2007","Employment Rate","Raw",73.4666666666667
+"Fife","2007-2008","Employment Rate","Raw",73.5
+"Fife","2008-2009","Employment Rate","Raw",72.9
+"Fife","2009-2010","Employment Rate","Raw",72.0666666666667
+"Fife","2010-2011","Employment Rate","Raw",70.8
+"Fife","2011-2012","Employment Rate","Raw",70.4333333333333
+"Fife","2012-2013","Employment Rate","Raw",70.4333333333333
+"Fife","2013-2014","Employment Rate","Raw",71.1666666666667
+"Fife","2014-2015","Employment Rate","Raw",72.2333333333333
+"Fife","2015-2016","Employment Rate","Raw",73.1666666666667
+"Fife","2016-2017","Employment Rate","Raw",73.6666666666667
+"Fife","2017-2018","Employment Rate","Raw",74.0333333333333
+"Fife","2018-2019","Employment Rate","Raw",73.3666666666667
+"Fife","2019-2020","Employment Rate","Raw",72.3666666666667
+"Glasgow City","2005-2006","Employment Rate","Raw",63
+"Glasgow City","2006-2007","Employment Rate","Raw",64.0333333333333
+"Glasgow City","2007-2008","Employment Rate","Raw",64.4333333333333
+"Glasgow City","2008-2009","Employment Rate","Raw",63.8333333333333
+"Glasgow City","2009-2010","Employment Rate","Raw",62.3666666666667
+"Glasgow City","2010-2011","Employment Rate","Raw",61.9666666666667
+"Glasgow City","2011-2012","Employment Rate","Raw",60.8666666666667
+"Glasgow City","2012-2013","Employment Rate","Raw",61.6666666666667
+"Glasgow City","2013-2014","Employment Rate","Raw",62.6666666666667
+"Glasgow City","2014-2015","Employment Rate","Raw",65
+"Glasgow City","2015-2016","Employment Rate","Raw",66.1
+"Glasgow City","2016-2017","Employment Rate","Raw",66.3666666666667
+"Glasgow City","2017-2018","Employment Rate","Raw",66.5333333333333
+"Glasgow City","2018-2019","Employment Rate","Raw",66.0666666666667
+"Glasgow City","2019-2020","Employment Rate","Raw",67.2333333333333
+"Highland","2005-2006","Employment Rate","Raw",79.5666666666667
+"Highland","2006-2007","Employment Rate","Raw",79.3666666666667
+"Highland","2007-2008","Employment Rate","Raw",80
+"Highland","2008-2009","Employment Rate","Raw",80.3333333333333
+"Highland","2009-2010","Employment Rate","Raw",79.4333333333333
+"Highland","2010-2011","Employment Rate","Raw",79.5333333333333
+"Highland","2011-2012","Employment Rate","Raw",77.7
+"Highland","2012-2013","Employment Rate","Raw",76.3333333333333
+"Highland","2013-2014","Employment Rate","Raw",75.9666666666667
+"Highland","2014-2015","Employment Rate","Raw",77.2333333333333
+"Highland","2015-2016","Employment Rate","Raw",79.1666666666667
+"Highland","2016-2017","Employment Rate","Raw",80.1
+"Highland","2017-2018","Employment Rate","Raw",80.2666666666667
+"Highland","2018-2019","Employment Rate","Raw",80.2666666666667
+"Highland","2019-2020","Employment Rate","Raw",79.0666666666667
+"Inverclyde","2005-2006","Employment Rate","Raw",68.5333333333333
+"Inverclyde","2006-2007","Employment Rate","Raw",69.2333333333333
+"Inverclyde","2007-2008","Employment Rate","Raw",69.5333333333333
+"Inverclyde","2008-2009","Employment Rate","Raw",69
+"Inverclyde","2009-2010","Employment Rate","Raw",69.2333333333333
+"Inverclyde","2010-2011","Employment Rate","Raw",68.2333333333333
+"Inverclyde","2011-2012","Employment Rate","Raw",67.5333333333333
+"Inverclyde","2012-2013","Employment Rate","Raw",67.3
+"Inverclyde","2013-2014","Employment Rate","Raw",68.3666666666667
+"Inverclyde","2014-2015","Employment Rate","Raw",69.0333333333333
+"Inverclyde","2015-2016","Employment Rate","Raw",69.6333333333333
+"Inverclyde","2016-2017","Employment Rate","Raw",69.9666666666667
+"Inverclyde","2017-2018","Employment Rate","Raw",71.8666666666667
+"Inverclyde","2018-2019","Employment Rate","Raw",71.0333333333333
+"Inverclyde","2019-2020","Employment Rate","Raw",70.9666666666667
+"Midlothian","2005-2006","Employment Rate","Raw",78.2666666666667
+"Midlothian","2006-2007","Employment Rate","Raw",78.3666666666667
+"Midlothian","2007-2008","Employment Rate","Raw",78.2333333333333
+"Midlothian","2008-2009","Employment Rate","Raw",77.1
+"Midlothian","2009-2010","Employment Rate","Raw",74.8666666666667
+"Midlothian","2010-2011","Employment Rate","Raw",74.3666666666667
+"Midlothian","2011-2012","Employment Rate","Raw",74.1666666666667
+"Midlothian","2012-2013","Employment Rate","Raw",74.6
+"Midlothian","2013-2014","Employment Rate","Raw",74.4333333333333
+"Midlothian","2014-2015","Employment Rate","Raw",74.1666666666667
+"Midlothian","2015-2016","Employment Rate","Raw",75.5
+"Midlothian","2016-2017","Employment Rate","Raw",77.2333333333333
+"Midlothian","2017-2018","Employment Rate","Raw",79.2666666666667
+"Midlothian","2018-2019","Employment Rate","Raw",80.3333333333333
+"Midlothian","2019-2020","Employment Rate","Raw",78.7666666666667
+"Moray","2005-2006","Employment Rate","Raw",75.8333333333333
+"Moray","2006-2007","Employment Rate","Raw",76.6333333333333
+"Moray","2007-2008","Employment Rate","Raw",78.4
+"Moray","2008-2009","Employment Rate","Raw",78.8666666666667
+"Moray","2009-2010","Employment Rate","Raw",79.0333333333333
+"Moray","2010-2011","Employment Rate","Raw",78.2666666666667
+"Moray","2011-2012","Employment Rate","Raw",78.6666666666667
+"Moray","2012-2013","Employment Rate","Raw",78.3666666666667
+"Moray","2013-2014","Employment Rate","Raw",77.5
+"Moray","2014-2015","Employment Rate","Raw",75.9
+"Moray","2015-2016","Employment Rate","Raw",74.5666666666667
+"Moray","2016-2017","Employment Rate","Raw",73.9333333333333
+"Moray","2017-2018","Employment Rate","Raw",73.9666666666667
+"Moray","2018-2019","Employment Rate","Raw",74.9333333333333
+"Moray","2019-2020","Employment Rate","Raw",74.5333333333333
+"Eilean Siar","2005-2006","Employment Rate","Raw",77.9333333333333
+"Eilean Siar","2006-2007","Employment Rate","Raw",78.2666666666667
+"Eilean Siar","2007-2008","Employment Rate","Raw",76.8333333333333
+"Eilean Siar","2008-2009","Employment Rate","Raw",75.3
+"Eilean Siar","2009-2010","Employment Rate","Raw",71
+"Eilean Siar","2010-2011","Employment Rate","Raw",69.0333333333333
+"Eilean Siar","2011-2012","Employment Rate","Raw",68.3333333333333
+"Eilean Siar","2012-2013","Employment Rate","Raw",71.6333333333333
+"Eilean Siar","2013-2014","Employment Rate","Raw",73.5
+"Eilean Siar","2014-2015","Employment Rate","Raw",75.8666666666667
+"Eilean Siar","2015-2016","Employment Rate","Raw",76.5666666666667
+"Eilean Siar","2016-2017","Employment Rate","Raw",78.9
+"Eilean Siar","2017-2018","Employment Rate","Raw",79.9666666666667
+"Eilean Siar","2018-2019","Employment Rate","Raw",81.3666666666667
+"Eilean Siar","2019-2020","Employment Rate","Raw",81.2
+"North Ayrshire","2005-2006","Employment Rate","Raw",68.2
+"North Ayrshire","2006-2007","Employment Rate","Raw",68.6333333333333
+"North Ayrshire","2007-2008","Employment Rate","Raw",68.4
+"North Ayrshire","2008-2009","Employment Rate","Raw",67.2666666666667
+"North Ayrshire","2009-2010","Employment Rate","Raw",65.0333333333333
+"North Ayrshire","2010-2011","Employment Rate","Raw",62.8666666666667
+"North Ayrshire","2011-2012","Employment Rate","Raw",61.7333333333333
+"North Ayrshire","2012-2013","Employment Rate","Raw",62.0666666666667
+"North Ayrshire","2013-2014","Employment Rate","Raw",64.3333333333333
+"North Ayrshire","2014-2015","Employment Rate","Raw",65.0666666666667
+"North Ayrshire","2015-2016","Employment Rate","Raw",65.8
+"North Ayrshire","2016-2017","Employment Rate","Raw",66.5
+"North Ayrshire","2017-2018","Employment Rate","Raw",68.5
+"North Ayrshire","2018-2019","Employment Rate","Raw",70.3
+"North Ayrshire","2019-2020","Employment Rate","Raw",68.9333333333333
+"North Lanarkshire","2005-2006","Employment Rate","Raw",70.2333333333333
+"North Lanarkshire","2006-2007","Employment Rate","Raw",70.9333333333333
+"North Lanarkshire","2007-2008","Employment Rate","Raw",71.3
+"North Lanarkshire","2008-2009","Employment Rate","Raw",70.3333333333333
+"North Lanarkshire","2009-2010","Employment Rate","Raw",70.2
+"North Lanarkshire","2010-2011","Employment Rate","Raw",69.6333333333333
+"North Lanarkshire","2011-2012","Employment Rate","Raw",69.5333333333333
+"North Lanarkshire","2012-2013","Employment Rate","Raw",69.5666666666667
+"North Lanarkshire","2013-2014","Employment Rate","Raw",70.2666666666667
+"North Lanarkshire","2014-2015","Employment Rate","Raw",71.0666666666667
+"North Lanarkshire","2015-2016","Employment Rate","Raw",72.4
+"North Lanarkshire","2016-2017","Employment Rate","Raw",73.6
+"North Lanarkshire","2017-2018","Employment Rate","Raw",74.6666666666667
+"North Lanarkshire","2018-2019","Employment Rate","Raw",74.4
+"North Lanarkshire","2019-2020","Employment Rate","Raw",71.8666666666667
+"Orkney Islands","2005-2006","Employment Rate","Raw",82.0666666666667
+"Orkney Islands","2006-2007","Employment Rate","Raw",82.5333333333333
+"Orkney Islands","2007-2008","Employment Rate","Raw",82.2666666666667
+"Orkney Islands","2008-2009","Employment Rate","Raw",83.7333333333333
+"Orkney Islands","2009-2010","Employment Rate","Raw",82.2666666666667
+"Orkney Islands","2010-2011","Employment Rate","Raw",81.0333333333333
+"Orkney Islands","2011-2012","Employment Rate","Raw",80.4
+"Orkney Islands","2012-2013","Employment Rate","Raw",81.5
+"Orkney Islands","2013-2014","Employment Rate","Raw",84.4666666666667
+"Orkney Islands","2014-2015","Employment Rate","Raw",85.2333333333333
+"Orkney Islands","2015-2016","Employment Rate","Raw",87.2
+"Orkney Islands","2016-2017","Employment Rate","Raw",87.5
+"Orkney Islands","2017-2018","Employment Rate","Raw",88.5333333333333
+"Orkney Islands","2018-2019","Employment Rate","Raw",88.4333333333333
+"Orkney Islands","2019-2020","Employment Rate","Raw",86.4
+"Perth and Kinross","2005-2006","Employment Rate","Raw",76.0333333333333
+"Perth and Kinross","2006-2007","Employment Rate","Raw",76.4333333333333
+"Perth and Kinross","2007-2008","Employment Rate","Raw",76.4
+"Perth and Kinross","2008-2009","Employment Rate","Raw",75.2
+"Perth and Kinross","2009-2010","Employment Rate","Raw",74.8333333333333
+"Perth and Kinross","2010-2011","Employment Rate","Raw",74.7
+"Perth and Kinross","2011-2012","Employment Rate","Raw",74.9666666666667
+"Perth and Kinross","2012-2013","Employment Rate","Raw",75.1666666666667
+"Perth and Kinross","2013-2014","Employment Rate","Raw",75.7666666666667
+"Perth and Kinross","2014-2015","Employment Rate","Raw",77.1
+"Perth and Kinross","2015-2016","Employment Rate","Raw",77.5666666666667
+"Perth and Kinross","2016-2017","Employment Rate","Raw",77.1
+"Perth and Kinross","2017-2018","Employment Rate","Raw",78.0333333333333
+"Perth and Kinross","2018-2019","Employment Rate","Raw",79.2
+"Perth and Kinross","2019-2020","Employment Rate","Raw",78.1
+"Renfrewshire","2005-2006","Employment Rate","Raw",73.3666666666667
+"Renfrewshire","2006-2007","Employment Rate","Raw",73.7
+"Renfrewshire","2007-2008","Employment Rate","Raw",73.7333333333333
+"Renfrewshire","2008-2009","Employment Rate","Raw",72.3333333333333
+"Renfrewshire","2009-2010","Employment Rate","Raw",70.1
+"Renfrewshire","2010-2011","Employment Rate","Raw",68.3333333333333
+"Renfrewshire","2011-2012","Employment Rate","Raw",68.6
+"Renfrewshire","2012-2013","Employment Rate","Raw",70.4
+"Renfrewshire","2013-2014","Employment Rate","Raw",72.2666666666667
+"Renfrewshire","2014-2015","Employment Rate","Raw",73.3333333333333
+"Renfrewshire","2015-2016","Employment Rate","Raw",74.0333333333333
+"Renfrewshire","2016-2017","Employment Rate","Raw",75.7
+"Renfrewshire","2017-2018","Employment Rate","Raw",76.2666666666667
+"Renfrewshire","2018-2019","Employment Rate","Raw",76.7
+"Renfrewshire","2019-2020","Employment Rate","Raw",75.9666666666667
+"Scottish Borders","2005-2006","Employment Rate","Raw",76.9
+"Scottish Borders","2006-2007","Employment Rate","Raw",77.4333333333333
+"Scottish Borders","2007-2008","Employment Rate","Raw",77.7333333333333
+"Scottish Borders","2008-2009","Employment Rate","Raw",76.3666666666667
+"Scottish Borders","2009-2010","Employment Rate","Raw",74.1333333333333
+"Scottish Borders","2010-2011","Employment Rate","Raw",72.4666666666667
+"Scottish Borders","2011-2012","Employment Rate","Raw",72.6333333333333
+"Scottish Borders","2012-2013","Employment Rate","Raw",73.8
+"Scottish Borders","2013-2014","Employment Rate","Raw",75.4
+"Scottish Borders","2014-2015","Employment Rate","Raw",76.4333333333333
+"Scottish Borders","2015-2016","Employment Rate","Raw",75.8666666666667
+"Scottish Borders","2016-2017","Employment Rate","Raw",74.9666666666667
+"Scottish Borders","2017-2018","Employment Rate","Raw",74.6
+"Scottish Borders","2018-2019","Employment Rate","Raw",74.8666666666667
+"Scottish Borders","2019-2020","Employment Rate","Raw",74.9
+"Shetland Islands","2005-2006","Employment Rate","Raw",83.4666666666667
+"Shetland Islands","2006-2007","Employment Rate","Raw",84.2666666666667
+"Shetland Islands","2007-2008","Employment Rate","Raw",84.3
+"Shetland Islands","2008-2009","Employment Rate","Raw",85.1
+"Shetland Islands","2009-2010","Employment Rate","Raw",84.6
+"Shetland Islands","2010-2011","Employment Rate","Raw",83.9333333333333
+"Shetland Islands","2011-2012","Employment Rate","Raw",80.5333333333333
+"Shetland Islands","2012-2013","Employment Rate","Raw",81.1
+"Shetland Islands","2013-2014","Employment Rate","Raw",80.1666666666667
+"Shetland Islands","2014-2015","Employment Rate","Raw",84.6666666666667
+"Shetland Islands","2015-2016","Employment Rate","Raw",84.8333333333333
+"Shetland Islands","2016-2017","Employment Rate","Raw",85.5666666666667
+"Shetland Islands","2017-2018","Employment Rate","Raw",83.7333333333333
+"Shetland Islands","2018-2019","Employment Rate","Raw",80.2
+"Shetland Islands","2019-2020","Employment Rate","Raw",76.5
+"South Ayrshire","2005-2006","Employment Rate","Raw",71.9
+"South Ayrshire","2006-2007","Employment Rate","Raw",72.6
+"South Ayrshire","2007-2008","Employment Rate","Raw",72.9333333333333
+"South Ayrshire","2008-2009","Employment Rate","Raw",71.8
+"South Ayrshire","2009-2010","Employment Rate","Raw",69.7666666666667
+"South Ayrshire","2010-2011","Employment Rate","Raw",67.8333333333333
+"South Ayrshire","2011-2012","Employment Rate","Raw",67.8666666666667
+"South Ayrshire","2012-2013","Employment Rate","Raw",69.6666666666667
+"South Ayrshire","2013-2014","Employment Rate","Raw",71.6
+"South Ayrshire","2014-2015","Employment Rate","Raw",72.5666666666667
+"South Ayrshire","2015-2016","Employment Rate","Raw",72.1
+"South Ayrshire","2016-2017","Employment Rate","Raw",72.1333333333333
+"South Ayrshire","2017-2018","Employment Rate","Raw",71.5
+"South Ayrshire","2018-2019","Employment Rate","Raw",72.5333333333333
+"South Ayrshire","2019-2020","Employment Rate","Raw",71.7333333333333
+"South Lanarkshire","2005-2006","Employment Rate","Raw",73.1666666666667
+"South Lanarkshire","2006-2007","Employment Rate","Raw",74.3
+"South Lanarkshire","2007-2008","Employment Rate","Raw",74.6
+"South Lanarkshire","2008-2009","Employment Rate","Raw",73.6333333333333
+"South Lanarkshire","2009-2010","Employment Rate","Raw",72.2333333333333
+"South Lanarkshire","2010-2011","Employment Rate","Raw",71.6
+"South Lanarkshire","2011-2012","Employment Rate","Raw",72.7
+"South Lanarkshire","2012-2013","Employment Rate","Raw",73
+"South Lanarkshire","2013-2014","Employment Rate","Raw",74
+"South Lanarkshire","2014-2015","Employment Rate","Raw",74.4
+"South Lanarkshire","2015-2016","Employment Rate","Raw",75.3333333333333
+"South Lanarkshire","2016-2017","Employment Rate","Raw",75
+"South Lanarkshire","2017-2018","Employment Rate","Raw",75.1333333333333
+"South Lanarkshire","2018-2019","Employment Rate","Raw",75.8666666666667
+"South Lanarkshire","2019-2020","Employment Rate","Raw",76.4333333333333
+"Stirling","2005-2006","Employment Rate","Raw",74
+"Stirling","2006-2007","Employment Rate","Raw",74.2
+"Stirling","2007-2008","Employment Rate","Raw",74.3666666666667
+"Stirling","2008-2009","Employment Rate","Raw",73.6333333333333
+"Stirling","2009-2010","Employment Rate","Raw",71.9
+"Stirling","2010-2011","Employment Rate","Raw",70.5333333333333
+"Stirling","2011-2012","Employment Rate","Raw",69.6666666666667
+"Stirling","2012-2013","Employment Rate","Raw",70.3666666666667
+"Stirling","2013-2014","Employment Rate","Raw",71.9
+"Stirling","2014-2015","Employment Rate","Raw",72.5
+"Stirling","2015-2016","Employment Rate","Raw",73.3666666666667
+"Stirling","2016-2017","Employment Rate","Raw",72.7
+"Stirling","2017-2018","Employment Rate","Raw",73.3666666666667
+"Stirling","2018-2019","Employment Rate","Raw",72.5666666666667
+"Stirling","2019-2020","Employment Rate","Raw",73.3333333333333
+"West Dunbartonshire","2005-2006","Employment Rate","Raw",70.1333333333333
+"West Dunbartonshire","2006-2007","Employment Rate","Raw",70.9333333333333
+"West Dunbartonshire","2007-2008","Employment Rate","Raw",70.9333333333333
+"West Dunbartonshire","2008-2009","Employment Rate","Raw",69.4
+"West Dunbartonshire","2009-2010","Employment Rate","Raw",68.3333333333333
+"West Dunbartonshire","2010-2011","Employment Rate","Raw",67.9666666666667
+"West Dunbartonshire","2011-2012","Employment Rate","Raw",67.6333333333333
+"West Dunbartonshire","2012-2013","Employment Rate","Raw",66.5333333333333
+"West Dunbartonshire","2013-2014","Employment Rate","Raw",65.8
+"West Dunbartonshire","2014-2015","Employment Rate","Raw",67.6333333333333
+"West Dunbartonshire","2015-2016","Employment Rate","Raw",70.0666666666667
+"West Dunbartonshire","2016-2017","Employment Rate","Raw",71.9666666666667
+"West Dunbartonshire","2017-2018","Employment Rate","Raw",72.2666666666667
+"West Dunbartonshire","2018-2019","Employment Rate","Raw",72.4333333333333
+"West Dunbartonshire","2019-2020","Employment Rate","Raw",71.9333333333333
+"West Lothian","2005-2006","Employment Rate","Raw",76.2333333333333
+"West Lothian","2006-2007","Employment Rate","Raw",76.0333333333333
+"West Lothian","2007-2008","Employment Rate","Raw",76.2666666666667
+"West Lothian","2008-2009","Employment Rate","Raw",74.7333333333333
+"West Lothian","2009-2010","Employment Rate","Raw",73.6333333333333
+"West Lothian","2010-2011","Employment Rate","Raw",72.3
+"West Lothian","2011-2012","Employment Rate","Raw",73.1
+"West Lothian","2012-2013","Employment Rate","Raw",73.5
+"West Lothian","2013-2014","Employment Rate","Raw",75.0666666666667
+"West Lothian","2014-2015","Employment Rate","Raw",74.7333333333333
+"West Lothian","2015-2016","Employment Rate","Raw",75.2333333333333
+"West Lothian","2016-2017","Employment Rate","Raw",75.3333333333333
+"West Lothian","2017-2018","Employment Rate","Raw",76.4333333333333
+"West Lothian","2018-2019","Employment Rate","Raw",77.3666666666667
+"West Lothian","2019-2020","Employment Rate","Raw",75.7666666666667
+"Scotland","2005-2006","Employment Rate","Raw",74.63125
+"Scotland","2006-2007","Employment Rate","Raw",74.9979166666667
+"Scotland","2007-2008","Employment Rate","Raw",74.9822916666667
+"Scotland","2008-2009","Employment Rate","Raw",74.2270833333333
+"Scotland","2009-2010","Employment Rate","Raw",73.1479166666667
+"Scotland","2010-2011","Employment Rate","Raw",72.1145833333333
+"Scotland","2011-2012","Employment Rate","Raw",71.7020833333333
+"Scotland","2012-2013","Employment Rate","Raw",71.8822916666667
+"Scotland","2013-2014","Employment Rate","Raw",72.696875
+"Scotland","2014-2015","Employment Rate","Raw",73.5322916666667
+"Scotland","2015-2016","Employment Rate","Raw",74.1958333333333
+"Scotland","2016-2017","Employment Rate","Raw",74.7760416666667
+"Scotland","2017-2018","Employment Rate","Raw",75.2614583333333
+"Scotland","2018-2019","Employment Rate","Raw",75.6125
+"Scotland","2019-2020","Employment Rate","Raw",74.896875

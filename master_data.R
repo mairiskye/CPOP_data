@@ -1,0 +1,11 @@
+bweight_dta <- read.csv("data/birthweight_data.csv")
+childpov_dta <- read.csv("data/child_poverty_cpp.csv")
+attnment_dta <- read.csv("data/edu_attainment_cpp_data.csv")
+employment_dta <- read.csv("data/employment_data.csv")
+oowb_dta <- read.csv("data/oowb_data.csv")
+p1_bmi_dta <- read.csv("data/p1_bmi_data.csv")
+
+masterdata <- rbind(bweight_dta, childpov_dta, attnment_dta, employment_dta, oowb_dta, p1_bmi_dta)
+
+currentDate <- format(Sys.Date(), "%d_%m_%y")
+write.csv(masterdata, file = paste0("final_data/masterdata_", currentDate, ".csv"), row.names = FALSE)

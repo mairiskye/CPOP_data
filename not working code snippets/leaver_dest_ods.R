@@ -1,6 +1,0 @@
-library(opendatascot)
-datasets <- opendatascot::ods_all_datasets()
-search <- filter(datasets, grep("school-leaver-destinations", datasets$URI))
-metadata <- opendatascot::ods_structure("school-leaver-destinations")
-data <- opendatascot::ods_get_csv("school-leaver-destinations")
-query <- opendatascot::ods_print_query("school-leaver-destinations")
